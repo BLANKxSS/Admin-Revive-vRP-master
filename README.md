@@ -9,7 +9,7 @@ http://prntscr.com/l9ge4w
 
 http://prntscr.com/l9gev4
 
-you can download admin.lua and replaced 
+you can download admin.lua and replaced if dosent work you can add the code manual
 
 > how to use 
 go to Admin then you will see Admin revive just put server id for the player 
