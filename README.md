@@ -1,6 +1,6 @@
 Hello,
 
-I made simple code for vrp for admin can revive with server id 
+I made simple code for vrp for admin can revive with [server id]
 
 >how install 
 go to vrp/modules/admin.lua and add the code anywhere 
