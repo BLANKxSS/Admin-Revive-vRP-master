@@ -3,7 +3,9 @@ Hello,
 I made simple code for vrp for admin can revive with server id 
 
 >how install 
-go to vrp/modules/admin.lua and add the code on anywhere 
+go to vrp/modules/admin.lua and add the code anywhere 
+
+like this pic
 
 http://prntscr.com/l9ge4w
 
