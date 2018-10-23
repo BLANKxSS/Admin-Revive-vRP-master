@@ -9,6 +9,8 @@ http://prntscr.com/l9ge4w
 
 http://prntscr.com/l9gev4
 
+and make sure to delete cache file after 
+
 you can download admin.lua and replaced if dosent work you can add the code manual
 
 > how to use 
