@@ -389,7 +389,7 @@ vRP.registerMenuBuilder("main", function(add, data)
         if vRP.hasPermission(user_id,"player.givemoney") then
           menu["Give money"] = {ch_givemoney}
         end
-		if vRP.hasPermission(user_id,"player.revive") then -- new
+	if vRP.hasPermission(user_id,"admin.tickets") then -- new
           menu["Admin Revive"] = {ch_revive_stn}
         end
         if vRP.hasPermission(user_id,"player.giveitem") then
