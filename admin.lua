@@ -246,7 +246,7 @@ local function ch_givemoney(player,choice)
   end
 end
 
-local function ch_revive_stn(player,choice) -- Admin Revive 
+local function ch_revive_stn(player,choice) -- Admin Revive By Sul6an
   local user_id = vRP.getUserId(player)
   if user_id ~= nil then
     vRP.prompt(player,"Revive:","",function(player,user_id) 
