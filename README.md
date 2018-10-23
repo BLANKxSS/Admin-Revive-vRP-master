@@ -44,8 +44,11 @@ local function ch_revive_stn(player,choice) -- Admin Revive
   end
 end
 		
-		
+			
 ```
+https://i.gyazo.com/4cdf36f587da940e14d485ad245be003.mp4
+
+
 if you have any problem 
 
 DM me on discord : Sul6an#2203
