@@ -46,6 +46,8 @@ end
 		
 		
 ```
+if you have any problem 
 
+DM me on discord : Sul6an#2203
 
 sorry for bad lang.
