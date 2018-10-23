@@ -29,7 +29,7 @@ you can edit to use user id instead server id
 -- install on vrp/modules/admin.lua 
 -- not tested on public servers , use as own your risk
 -----------------------------------------------------------------------------------------
-		 if vRP.hasPermission(user_id,"player.adminrevive") then
+		 if vRP.hasPermission(user_id,"admin.tickets") then
           menu["Admin Revive"] = {ch_revive_stn}
         end
 -----------------------------------------------------------------------------------------
