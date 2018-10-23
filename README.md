@@ -16,7 +16,7 @@ you can download admin.lua and replaced if dosent work you can add the code manu
 > how to use 
 go to Admin then you will see Admin revive just put server id for the player 
 
-not tested on public servers , use as own your risk
+not tested in public servers , use as own your risk
 
 you can edit to use user id instead server id
 
